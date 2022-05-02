@@ -1,0 +1,26 @@
+#navbar{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+#searchinput{
+    width: 80%;
+
+    height:40px;
+    border: 1px solid blue;
+
+}
+
+
+#sidebar{
+    border:1px solid red;
+    width:17%;
+    height: 450px;
+
+}
+h4{
+    text-align: center;
+}

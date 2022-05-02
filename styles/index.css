@@ -1,0 +1,22 @@
+#bigbox{
+    display:flex;
+    /* justify-content: space-between; */
+
+    gap:10%;
+}
+
+.news{
+    width:90%;
+}
+
+img{
+    width: 100%;
+    height:150px;
+}
+
+#sidebar{
+    border:1px solid red;
+    width:17%;
+    height: 450px;
+
+}
